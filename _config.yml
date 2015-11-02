@@ -41,7 +41,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "greg_logo.png"
+logo: 'https://github.com/GregMFriedman/feeling-responsive/blob/gh-pages/assets/img/greg_logo.png'
 
 
 # Paginates all X entries
